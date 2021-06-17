@@ -1,3 +1,5 @@
+<img align="center" alt="LoginMastertech.gif" src="./src/assets/LoginMastertech.gif">
+
 # Teste Front-end Mastertech
 > Teste para ingressar como Front-end Developer na Mastertech
 
@@ -13,6 +15,7 @@
 - Html5, CSS3 e Sass
 - Git
 - node/npm
+
 
 #### O que é permitido:
 - ES6+
